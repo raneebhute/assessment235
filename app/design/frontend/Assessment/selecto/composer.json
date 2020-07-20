@@ -1,0 +1,14 @@
+{
+    "name": "assessment/selecto",
+    "description": "Assessment Selecto Theme for Magento 2",
+    "require": {
+        "magento/theme-frontend-luma": "100.3.*"
+    },
+    "type": "magento2-theme",
+    "autoload": {
+        "files": [
+            "registration.php"
+        ]
+    },
+    "version": "1.0.0"
+}
